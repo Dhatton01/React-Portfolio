@@ -5,7 +5,7 @@ import TechTurbo from './assets/images/Tech-Turbo-Blogsite.png';
 import WeatherApp from './assets/images/Whether-The-Weather.png';
 import WorkScheduler from './assets/images/Work-Day-Scheduler.png';
 
-export default [
+/*export default [
     {
         "id": 1,
         "name": "In A GIFFY",
