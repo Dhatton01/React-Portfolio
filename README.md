@@ -20,8 +20,6 @@ My motivation to make this project was to show a potential employer my deployed 
 [questions]: 
 ## Screenshots ##
 
-## License ##
-MIT License
 
 ## Deployed Link ##
 
