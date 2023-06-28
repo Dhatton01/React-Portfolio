@@ -8,14 +8,15 @@ My motivation to make this project was to show a potential employer my deployed 
 
 [Screenshots][screenshots]
 
-[screenshots]: 
-
+[screenshots]: https://github.com/Dhatton01/React-Portfolio#screenshotsots
 
 [Deployed Link][deployed link]
 
-[deployed link]:
+[deployed link]: 
 
 [Questions][questions]
+
+[questions]: https://github.com/Dhatton01/React-Portfolio#questions
 
 [questions]: 
 ## Screenshots ##
