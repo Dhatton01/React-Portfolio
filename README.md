@@ -20,8 +20,12 @@ My motivation to make this project was to show a potential employer my deployed 
 [questions]: 
 ## Screenshots ##
 
+<img src="assets/images/Portfolio.png" alt="Portfolio Image">
+
+<img src="assets/images/Project.png" alt="Project Image">
 
 ## Deployed Link ##
-
+https://dhatton01.github.io/React-Portfolio/
 
 ## Questions ##
+If any users have any questions regarding this project, then my GitHub username is KyleKryst. A link to my GitHub is provided [here](https://github.com/Dhatton01). 
