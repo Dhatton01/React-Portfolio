@@ -21,9 +21,9 @@ My motivation to make this project was to show a potential employer my deployed 
 [questions]: 
 ## Screenshots ##
 
-<img src="assets/images/Portfolio.png" alt="Portfolio Image">
+<img src="src/assets/images/images/Portfolio.png" alt="Portfolio Image">
 
-<img src="assets/images/Project.png" alt="Project Image">
+<img src="src/assets/images/images/Project.png" alt="Project Image">
 
 ## Deployed Link ##
 https://dhatton01.github.io/React-Portfolio/
