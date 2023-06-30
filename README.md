@@ -12,13 +12,13 @@ My motivation to make this project was to show a potential employer my deployed 
 
 [Deployed Link][deployed link]
 
-[deployed link]: 
+[deployed link]: https://dhatton01.github.io/React-Portfolio/
 
 [Questions][questions]
 
 [questions]: https://github.com/Dhatton01/React-Portfolio#questions
 
-[questions]: 
+
 ## Screenshots ##
 
 <img src="src/assets/images/images/Portfolio.png" alt="Portfolio Image">
